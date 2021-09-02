@@ -1,5 +1,6 @@
 # Covid-19-Self-Testing-Module-with-Voice-Recognition
-Introduction
+
+# Introduction
    
 This project identifies the risk of infection by identifying breath, cough, and speaking sounds to quickly and accurately find the covid status of testers and detect potential asymptomatic infection risks. These functions can improve the detection capability of medical departments and improve the ability to detect asymptomatic cases, thus effectively summarizing the current epidemic situation and stabilizing the prevention process.
   
@@ -7,28 +8,3 @@ This project contains two types of neural networks, CNN and ANN, and the code wi
  
 Users can use different datasets for targeted identification of specific COVID-19 cases, which can be achieved by collecting sound files of specific cases to achieve identification expectations.
  
-Models 
-Sounds Types 
-Accuracy 
-Model training  (testing) time
-CNN
-cough
-63.3%
-63.93s
-breath
-70.9%
-98.93s
-vowel
-70.0%
-59.77s
-ANN
-cough
-94.7%
-4.65s
-breath
-82.6%
-3.86s
-vowel
-72.7%
-19.4s
-
