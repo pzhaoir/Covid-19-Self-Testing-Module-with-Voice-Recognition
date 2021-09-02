@@ -6,3 +6,29 @@ This project identifies the risk of infection by identifying breath, cough, and 
 This project contains two types of neural networks, CNN and ANN, and the code will be shared sequentially in the 'Codes' folder. the CNN will perform better when the quality of the dataset is excellent. The researchers may need to fine-tune input_shape, target_size, learning_rate, batch_size and steps_per_epoch according to the image size of the dataset they choose. The code enhancement is in progress and the updating info will be uploaded to the 'Codes' folder.
  
 Users can use different datasets for targeted identification of specific COVID-19 cases, which can be achieved by collecting sound files of specific cases to achieve identification expectations.
+ 
+Models 
+Sounds Types 
+Accuracy 
+Model training  (testing) time
+CNN
+cough
+63.3%
+63.93s
+breath
+70.9%
+98.93s
+vowel
+70.0%
+59.77s
+ANN
+cough
+94.7%
+4.65s
+breath
+82.6%
+3.86s
+vowel
+72.7%
+19.4s
+
