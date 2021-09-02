@@ -10,7 +10,7 @@ The Coswara dataset is the primary data source for this project
  
 Github: https://github.com/iiscleap/Coswara-Data
  
-Essay: https://arxiv.org/pdf/2005.10548.pdf
+Citation: Sharma, N., Krishnan, P., Kumar, R., Ramoji, S., Chetupalli, S. R., Ghosh, P. K., & Ganapathy, S. (2020). Coswara--A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis. arXiv preprint arXiv:2005.10548.
 
 # Networks & Usages
  
